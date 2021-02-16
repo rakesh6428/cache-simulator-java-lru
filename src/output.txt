@@ -1,0 +1,11 @@
+Cache Simulator starting....
+Initial size of cache is 0
+Please enter your simulation option 
+ 1. Calculate HitRate in the cache 
+ 2. Simulate the cache and output results:
+Enter the value for 'k' : 
+Inspect
+Maximum number of words stored in Cache: 8192
+Associativity is 64-way associativity
+HitRate: 48939073
+Miss Rate: 703055
